@@ -2,8 +2,8 @@
 import PackageDescription
 
 // BEGIN KMMBRIDGE VARIABLES BLOCK (do not edit)
-let remoteKotlinUrl = "https://sdk-assets.realtime.cloudflare.com/RealtimeKitFlutterCoreKMM-unspecified-669835f3-3c1a-4e26-bd9a-abc146e79aa2.xcframework.zip"
-let remoteKotlinChecksum = "6f28f8f1a391c5928e9be8cdd9280949b8efc8329f021fa8a6aebcc6d20e98aa"
+let remoteKotlinUrl = "https://sdk-assets.realtime.cloudflare.com/RealtimeKitFlutterCoreKMM-unspecified-b64679e6-2d03-4800-a47e-1dd6e3cbaca3.xcframework.zip"
+let remoteKotlinChecksum = "418b2c282f1074a95c2f928713d562c68f339325971bb8ae1e70a3da6872ec28"
 let packageName = "RealtimeKitFlutterCoreKMM"
 // END KMMBRIDGE BLOCK
 
